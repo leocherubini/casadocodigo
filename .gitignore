@@ -24,8 +24,8 @@ hs_err_pid*
 *.DS_Store
 bin/
 target/
-.classpath
-.project
-.settings
-.idea
+.classpath/
+.project/
+.settings/
+.idea/
 *.iml
